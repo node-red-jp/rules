@@ -1,8 +1,8 @@
-# Node-RED日本ユーザ会規約
+# Node-RED User Group Japan 規約
 
 ## 第1条（名称）
 
-この会は、Node-RED日本ユーザ会と称する。
+この会は、Node-RED User Group Japanと称する。
 
 ## 第2条（事務所）
 
